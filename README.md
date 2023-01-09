@@ -1,4 +1,4 @@
-# StJohn
+# Hi 👋, I'm St.John
 
  - 💻 I am currently employed as a Lead Software Engineer
  - 🌱 Currently learning Golang 
