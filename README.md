@@ -1,4 +1,4 @@
-# stjohn
+# StJohn
 
  - 💻 I am currently employed as a Lead Software Engineer
  - 🌱 Currently learning Golang 
