@@ -1,6 +1,6 @@
 # stjohn
 
- - 💻 I am working as Lead Software Engineer 
+ - 💻 I am currently employed as a Lead Software Engineer
  - 🌱 Currently learning Golang 
  - ❤️ Open Source Software 
  - 🐧 A computer is like air conditioning - it becomes useless when you open Windows
